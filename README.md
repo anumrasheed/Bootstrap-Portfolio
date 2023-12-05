@@ -17,7 +17,7 @@
 - Work section contains images of Anum's applications. When images of the applications are clicked then the user is taken to that deployed application
 - Contact-Me section provides details about social media information and a contact button to contact Anum via email
 - Below is the screenshot to the web application
-  ![Web application link](assets/images/webpage-screenshot)
+  ![Web application link](assets/images/webpage-screenshot.png)
 
   ## License
 
