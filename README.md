@@ -5,7 +5,7 @@
 -  It contains information about myself as well as my work, Resume, social media contact information etc
 -  The project was build using wireframe to work out the layout of the project
 -  The link to my deployed application is here
-    https://anumrasheed.github.io/Anum-Profile/
+  https://anumrasheed.github.io/Bootstrap-Portfolio
 - The project has semantic HTML elements and made sure HTML elements follow a logical structure.
 - The website has been designed to be responsive using bootstrap grid and flex box
 
