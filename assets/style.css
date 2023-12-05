@@ -6,3 +6,24 @@ i{
     font-size:2rem;
     color:cornflowerblue;
 }
+
+.parallax {
+    /* The image used */
+    background-image: url("./images/myphoto2.jpg");
+    /* Set a specific height */
+  min-height: 77vh; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position:right;
+  background-repeat: no-repeat;
+   background-size: contain; 
+   
+}
+
+.jumbotron-text{
+    color: white;
+}
+.background-hero {
+    background-color: #0779e4;
+}
