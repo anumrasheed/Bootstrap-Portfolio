@@ -7,23 +7,55 @@ i{
     color:cornflowerblue;
 }
 
+
 .parallax {
     /* The image used */
     background-image: url("./images/myphoto2.jpg");
     /* Set a specific height */
-  min-height: 77vh; 
+   min-height: 77vh;  
+  width: 110%;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position:right;
   background-repeat: no-repeat;
    background-size: contain; 
+   position: relative;
    
 }
 
 .jumbotron-text{
     color: white;
 }
-.background-hero {
-    background-color: #0779e4;
+.opacity{
+    background-color: rgba(1, 4, 38, 0.493);
+    position: absolute;
+    top: 22em;
+    
 }
+
+.contact-div {
+background-color: rgb(208, 232, 233);
+
+}
+.contact-div h3{
+    margin-top: 1rem;
+}
+
+@media only screen and (min-width: 600px) {
+
+    .background-hero {
+        background-color: #0779e4 !Important; 
+    
+    }
+    .opacity{
+        background-color: transparent;
+        position: relative;
+        top: 0;
+        
+    }
+
+
+
+    }
+
